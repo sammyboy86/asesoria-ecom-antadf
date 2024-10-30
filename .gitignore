@@ -1,3 +1,5 @@
 .venv
 asociados_antad/data
 comercio_electronico/data
+comercio_electronico/catboost_info
+comercio_electronico/troste
